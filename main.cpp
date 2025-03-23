@@ -68,5 +68,10 @@ void Display()
 
 int main()
 {
-    
+    Input();
+    InsertionSort();
+    Display();
+    system("Pause");
+
+    return 0;
 }
